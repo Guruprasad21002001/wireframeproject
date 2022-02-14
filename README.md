@@ -12,7 +12,17 @@ Write your design steps here
 Write your design steps here
 
 ## OUTPUT:
-include your output screenshots 
+## home page:
+
+![git logo](gur2.png)
+
+## gallery page:
+
+![git logo](gur1.png)
+
+## contact us page:
+
+![git logo](gur3.png)
 
 
 ## Result:
